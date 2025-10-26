@@ -20,7 +20,7 @@
 
 
 
-def isPalindrome(x):
+def isPalindrome(self,x):
     if (x < 0):
         return False
     
@@ -29,5 +29,5 @@ def isPalindrome(x):
     for i in range(len(x)):
         if x[i] != x[len(x) - 1 - i]:
             return False
-        else:
-            return True
+        
+    return True
