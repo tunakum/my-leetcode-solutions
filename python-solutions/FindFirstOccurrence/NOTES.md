@@ -1,0 +1,1 @@
+While solving the problem, the page was very messy because I tried different functions and comparisons to find the solution. I deleted all those attempts and only kept my final answer and the unittest. Also, this was my first time using unittest, so it might seem basic.
