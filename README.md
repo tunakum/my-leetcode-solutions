@@ -3,10 +3,10 @@
 This repository contains my solutions to various **LeetCode** problems, written in **Python** and **JavaScript**.
 
 ## Progress Tracker
-- **Total Problems Solved:** 14
-- **Python Solutions:** 7
-- **JavaScript Solutions:** 7
-- **Last Updated:** November 1, 2025
+- **Total Problems Solved:** 16
+- **Python Solutions:** 8
+- **JavaScript Solutions:** 8
+- **Last Updated:** November 2, 2025
 
 ## Python Solutions
 - Focused on algorithmic problem-solving and data structures.
