@@ -1,0 +1,1 @@
+I didn't use unittest for this problem because manually writing out the 9x9 board inputs is super **long** and **tedious**.
