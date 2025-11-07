@@ -3,9 +3,9 @@
 This repository contains my solutions to various **LeetCode** problems, written in **Python** and **JavaScript**.
 
 ## Progress Tracker
-- **Total Problems Solved:** 24
-- **Python Solutions:** 12
-- **JavaScript Solutions:** 12
+- **Total Problems Solved:** 26
+- **Python Solutions:** 13
+- **JavaScript Solutions:** 13
 - **Last Updated:** November 7, 2025
 
 ## Python Solutions
